@@ -52,10 +52,11 @@ to identify top contributors and growth opportunities.
 ```
 Coffee_Sales_project/
 ┣ 📜.gitignore
-┣ 📜coffe_sales_project.xlsx
+┣ 📜Dashboard_image.jpg
 ┣ 📜Data_set.xlsx
-┣ 📜README.MD
-┗ 📜Screenshot .jpg
+┣ 📜Presentation.pdf
+┣ 📜Project.xlsx
+┗ 📜README.MD
 
 ```
 
