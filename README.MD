@@ -64,10 +64,10 @@ Coffee_Sales_project/
 ---
 <h2><a class="anchor" id="research-questions--key-findings"></a> Key Findings</h2>
 
-1. ** The highest order quantity occurs between 8 AM and 10 AM, reflecting morning peak hours.
-2. ** Coffee dominates with 39% of total sales, followed by Tea (28%) and Drinking Chocolate (12%)
-3. ** Barista Espresso leads in revenue — showing strong customer preference for premium coffee options.
-4. ** Hell’s Kitchen, Astoria, and Lower Manhattan have similar footfall levels, but Hell’s Kitchen slightly
+1.  The highest order quantity occurs between 8 AM and 10 AM, reflecting morning peak hours.
+2.  Coffee dominates with 39% of total sales, followed by Tea (28%) and Drinking Chocolate (12%)
+3.  Barista Espresso leads in revenue — showing strong customer preference for premium coffee options.
+4.  Hell’s Kitchen, Astoria, and Lower Manhattan have similar footfall levels, but Hell’s Kitchen slightly
 leads.
 ---
 
