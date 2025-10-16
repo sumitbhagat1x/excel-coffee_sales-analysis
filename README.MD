@@ -64,17 +64,11 @@ Coffee_Sales_project/
 ---
 <h2><a class="anchor" id="research-questions--key-findings"></a> Key Findings</h2>
 
-1. **Total Sales:** $6,98,812.33
-2. **Total Footfall:** 149,116 customers
-3. **Top 5 Products:**
-    -  Barista Espresso
-    -  Brewed Black Tea
-    -  Brewed Chai Tea
-    -  Hot Chocolate
-    -  Gourmet Brewed Coffee
-
-4. **Order Size Trend:** 'Regular' size is the most popular order size.
-
+1. **The highest order quantity occurs between 8 AM and 10 AM, reflecting morning peak hours.
+2. **Coffee dominates with 39% of total sales, followed by Tea (28%) and Drinking Chocolate (12%)
+3. **Barista Espresso leads in revenue — showing strong customer preference for premium coffee options.
+4. **Hell’s Kitchen, Astoria, and Lower Manhattan have similar footfall levels, but Hell’s Kitchen slightly
+leads.
 ---
 
 <h2><a class="anchor" id="dashboard"></a>Dashboard</h2>
